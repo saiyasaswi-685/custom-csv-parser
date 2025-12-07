@@ -194,9 +194,4 @@ The project meets all requirements, including:
 ✔ Edge-case handling  
 ✔ Documentation  
 
----
-
-## Submission Complete
-
-This README.md is final and ready for submission.
 
